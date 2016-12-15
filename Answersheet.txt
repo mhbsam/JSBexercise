@@ -1,0 +1,65 @@
+CSS
+————————
+
+*{
+  padding: 0px;
+  margin: 0px;
+  color: #BFD7EA;
+}
+#container {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #12355B;
+  padding: 10px;
+}
+#container h1 {
+  background-color: #D72638;
+  border-radius: 10px;
+  padding: 20px;
+}
+#sidebar {
+  background-color: #087E8B;
+  padding: 20px;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  vertical-align: top;
+}
+#sidebar ul {
+  margin-left: 20px;
+}
+#main {
+  display: inline-block;
+  width: 920px;
+  padding: 20px;
+  margin: 20px 0px 0px 20px;
+  background-color: #0C1821;
+  border-radius: 20px;
+}
+#main h2 {
+  padding: 10px 0px 10px 0px;
+}
+
+#main li {
+  margin: 10px 0px 0px 20px;
+}
+.code{
+  color: #7692FF;
+}
+a{
+  color: #52DEE5;
+}
+#footer {
+  background-color: #5C6672;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+
+
+
+
+HTML
+———
